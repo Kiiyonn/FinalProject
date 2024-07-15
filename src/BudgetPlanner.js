@@ -40,12 +40,8 @@ const BudgetPlanner = () => {
         </div>
         <section className="add-expense">
           <h2>Add Expense</h2>
-          <div className="expense-fields">
           <input type="text" placeholder="Name" className="expense-input" />
-          </div>
-          <div className="expense-fields">
           <input type="number" placeholder="Cost" className="expense-input" />
-          </div>
           <button className="add-btn">ADD</button>
         </section>
         <section className="expense-list">
