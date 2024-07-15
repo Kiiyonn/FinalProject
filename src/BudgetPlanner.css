@@ -55,6 +55,7 @@
   .search-bar {
     width: 200px;
     margin-right: 75px;
+    background-color: #f0f0f0;
     padding: 10px 30px;
     border: 1px solid #ccc;
     font-size: 13px;
