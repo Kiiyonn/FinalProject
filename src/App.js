@@ -6,7 +6,7 @@ import LoginForm from './login';
 function App() {
   return (
       <div className="App">
-          <BudgetPlanner />
+          <LoginForm />
       </div>
   );
 }
